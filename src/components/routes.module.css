@@ -1,0 +1,17 @@
+.navBar li {
+  text-decoration: none;
+  list-style-type: none;
+  margin: auto;
+  color: white;
+}
+.navBar {
+  display: flex;
+  background: black;
+  color: white;
+  padding: 20px;
+}
+.navBar li a {
+  color: white;
+  text-decoration: none;
+  font-weight: bold;
+}

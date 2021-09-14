@@ -1,0 +1,13 @@
+body {
+  background: aqua;
+}
+.table {
+  max-width: 50%;
+  width: 100%;
+  margin: 0 auto;
+  margin-top: 38px;
+}
+.table tr td {
+  border: 1px solid black;
+  background: wheat;
+}

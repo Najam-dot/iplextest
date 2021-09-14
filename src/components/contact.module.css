@@ -1,0 +1,12 @@
+.display p {
+  border: 1px solid black;
+  max-width: 18%;
+  width: 100%;
+  background: blanchedalmond;
+  margin: 10px auto;
+  padding: 5px 0px;
+}
+body {
+  margin: 0;
+  padding: 0;
+}
